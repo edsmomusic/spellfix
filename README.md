@@ -1,3 +1,4 @@
+````md
 # SpellFix
 
 SpellFix is a fast, local, *safe* autocorrect script inspired by iPhone typing behavior.
@@ -116,22 +117,4 @@ SpellFix is intentionally minimal.
 * [ ] Simple macOS app wrapper
 
 ```
-
----
-
-### Final step
-1. Scroll down  
-2. Commit message: **`Improve README with Quick Start and examples`**  
-3. Click **Commit changes**
-
-That’s it 🎉  
-Your README now looks **clean, intentional, and legit**.
-
-If you want next, I can:
-- Prep a **v0.1.0 release**
-- Add **GitHub Topics** for discoverability
-- Turn this into a **one-click macOS app**
-- Or help you write a **launch post** for Reddit / Hacker News / X
-
-Just say the word 😄
 ```
