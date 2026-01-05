@@ -25,6 +25,11 @@ It fixes spelling, spacing, and punctuation **without rewriting tone** and **wit
 - Local LanguageTool server
 - (Optional) Alfred for hotkey usage
 
-## Status
-This is my first public script and a personal productivity tool.
-Feedback and suggestions are welcome.
+## Usage
+
+SpellFix is designed to be used as a command-line or hotkey-triggered script.
+
+### Basic usage
+Clean text from a file:
+```bash
+python spellfix.py < input.txt
