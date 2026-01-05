@@ -115,6 +115,3 @@ SpellFix is intentionally minimal.
 * [ ] Optional punctuation spacing mode
 * [ ] Alfred workflow
 * [ ] Simple macOS app wrapper
-
-```
-```
