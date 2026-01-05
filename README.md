@@ -1,9 +1,3 @@
-Perfect — you’re in the right place 👍
-**Delete everything in the editor** and **paste this entire block** exactly as-is.
-
----
-
-````md
 # SpellFix
 
 SpellFix is a fast, local, *safe* autocorrect script inspired by iPhone typing behavior.
